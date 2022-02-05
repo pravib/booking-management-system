@@ -1,1 +1,1 @@
-# booking-mangement-system
+# booking-management-system
